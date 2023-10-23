@@ -1,4 +1,4 @@
-printf
+printf project --> team project
 _printf is a custom implementation of the C programming function printf. This project is an application of the C programming knowledge that main School cohort 3 students have learned since starting the program on May 1, 2017.
 
 Prototype: int _printf(const char *, ...);
@@ -61,7 +61,6 @@ print_numbers.c: - contains the functions print_i and print_d, which handle the 
 print_hex.c: - contains the functions print_hex, which prints an unsigned int in hexidecimal form, print_x, print_X, and print_p, which handle the conversion specifiers x, X, and p, respectively
 print_unsigned_int.c: - contains the functions print_u, print_o, and print_b, which handle the conversion specifiers u, o, and b, respectively
 print_rot13.c - contains the function print_R, which handles the conversion specifier R
-Authors
-Jane Doe | @Jane_Doe
-
-John Doe | @John_Doe
+Authors: 
+Gabriel Mudahe | @nusgabriel10@gmail.com
+Bryan Asega | @Almasibryan7@gmail.com
